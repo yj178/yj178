@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yj178
 - 👀 I’m interested in Java, Spring, System Architecture, 
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning c++, java, python, mysql and spring framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sdyj178@gmail.com
 
