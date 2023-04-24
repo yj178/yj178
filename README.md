@@ -1,6 +1,6 @@
 - 👋 Hi, My nickname is KIMYUJIN.
 - 👀 I’m interested in Linux, C/C++, Java, Spring, System Architecture, etc.
-- 🌱 I’m currently learning C++;
+- 🌱 I’m currently learning C/C++, Spring, API;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sdyj178@gmail.com
 
